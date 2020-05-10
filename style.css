@@ -32,6 +32,9 @@ header {
     margin-left: 12%;
     margin-top: 45px;
 }
+.header__logo a{
+    color: white;
+}
 
 nav {
     margin-left: 29%;
